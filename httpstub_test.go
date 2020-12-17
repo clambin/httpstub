@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"testing"
 
-	"httpstub"
+	"github.com/clambin/httpstub"
 )
 
 func TestNewTestClient(t *testing.T) {

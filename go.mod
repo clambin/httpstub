@@ -1,4 +1,4 @@
-module httpstub
+module github.com/clambin/httpstub
 
 go 1.15
 
